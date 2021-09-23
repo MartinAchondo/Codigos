@@ -1,0 +1,2 @@
+PINMODE(13,OUTPUT)
+const a=2
